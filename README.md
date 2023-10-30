@@ -1,9 +1,9 @@
 # spotify-upgrade-bot
 
-리아 병신련이 소스 3만원에 되팔이해서 뿌립니다.
+**리아 병신련이 소스 3만원에 되팔이해서 뿌립니다.**
 
 https://discord.gg/spotifyshop
-- Dev by kasha0_0
+- Dev by **kasha0_0**
 
 - 🌍 ChromeDriver Download Page: https://chromedriver.chromium.org/downloads
 
