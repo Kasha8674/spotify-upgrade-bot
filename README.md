@@ -7,7 +7,7 @@ https://discord.gg/spotifyshop
 
 - 🌍 ChromeDriver Download Page: https://chromedriver.chromium.org/downloads
 
-쓰실 때 프록시 교체해야합니다.
+**쓰실 때 프록시 교체해야합니다.**
 
 - 🍀 입고 형식
 - 패밀리가입링크뒷자리:가입주소
