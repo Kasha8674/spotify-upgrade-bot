@@ -1,6 +1,6 @@
 # spotify-upgrade-bot
 
-**리아 병신련이 소스 3만원에 되팔이해서 뿌립니다.**
+**리아가 소스코드 3만원에 되팔이해서 뿌립니다.**
 
 https://discord.gg/spotifyshop ( My server )
 - Dev by **kasha0_0** ( Discord )
