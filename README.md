@@ -2,7 +2,7 @@
 
 **리아가 소스코드 3만원에 되팔이해서 뿌립니다.**
 
-https://discord.gg/spotifyshop ( My server )
+https://discord.gg/ccQ9tHEx ( My server )
 - Dev by **kasha0_0** ( Discord )
 
 - 🌍 ChromeDriver Download Page: https://chromedriver.chromium.org/downloads
